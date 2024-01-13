@@ -1,0 +1,173 @@
+.nav-item{
+color: #707070;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: Poppins;
+}
+
+p{
+font-family: Poppins;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+
+.buy-now-button{
+width: 179px;
+height: 57px;
+border-radius: 5px;
+border:none;
+background-color: #000000;
+color:#FFF;
+flex-shrink: 0;
+cursor: pointer;
+}
+
+.buy-now-button:hover{
+    color:#ff5200;
+}
+
+.left_arrow{
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+}
+
+.carousel_text{
+    width: 488px;
+    height: 127px;
+    flex-shrink: 0;
+    color: #707070;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 35px; /* 194.444% */
+}
+.rectangle>.rectangle1{
+    width: 45px;
+    height: 12px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: linear-gradient(270deg, #FF9C35 50%, #FFD019 91.13%);
+    cursor: pointer;
+}
+
+.rectangle{
+    gap:10px;
+}
+
+.rectangle>.rectangle2{
+    width: 16px;
+    height: 12px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: #CECECE;
+    cursor: pointer;
+}
+
+.rectangle>.rectangle3{
+    width: 16px;
+    height: 12px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: #CECECE;
+    cursor: pointer;
+}
+
+.rectangle>.rectangle4{
+    width: 45px;
+    height: 12px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background:#CECECE;
+    cursor: pointer;
+}
+
+.rectangle>.rectangle5{
+    width: 16px;
+    height: 12px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: linear-gradient(270deg, #FF9C35 50%, #FFD019 91.13%);
+    cursor: pointer;
+}
+
+.rectangle>.rectangle6{
+    width: 16px;
+    height: 12px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: linear-gradient(270deg, #FF9C35 50%, #FFD019 91.13%);
+    cursor: pointer;
+}
+
+/*====================== Card Design================== */
+.card{
+    border: none;
+    text-align: center;
+}
+.see_all{
+    color: #FF9D00;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.card-footer{
+    background-color: white;
+    border-top:none;
+}
+/*======================== Categories section==================== */
+.rectangle7{
+    width: 135.527px;
+    height: 9.73px;
+    flex-shrink: 0;
+    border-radius: 16.687px;
+    background: linear-gradient(90deg, #FF9C35 -17.88%, #FFD019 77.72%);
+}
+
+.rowflex1{
+    width: 296px;
+    height: 316px;
+    flex-shrink: 0;
+
+    border-radius: 5px 20px 40px 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 32px 0px rgba(109, 109, 109, 0.15);
+}
+
+.rowflex_sub1{
+    width: 296px;
+    height: 314px;
+    flex-shrink: 0;
+    border-radius: 40px 5px 5px 20px;
+    background: #FFF;
+    box-shadow: 0px 6px 32px 0px rgba(109, 109, 109, 0.15);
+}
+
+.rowflex_sub2{
+    margin-top: 10px;
+    width: 296px;
+    height: 314px;
+    flex-shrink: 0;
+    border-radius: 40px 5px 5px 20px;
+    background: #FFF;
+    box-shadow: 0px 6px 32px 0px rgba(109, 109, 109, 0.15);
+}
+
+.categoryMargin{
+    margin-bottom: 100px;
+}
+
+footer{
+    text-align: center;
+}
+
